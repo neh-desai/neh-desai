@@ -20,7 +20,6 @@ If you have any questions about any of my repositories or are interested in coll
 
 - [LinkedIn](https://www.linkedin.com/in/neh-desai/)  
 - [neh.desai2003@gmail.com](mailto:YOUR_EMAIL_ADDRESS)
-- 
 <!--
 **neh-desai/neh-desai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
