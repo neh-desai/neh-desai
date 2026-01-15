@@ -1,4 +1,14 @@
-## Hi there 👋
+## 👋 Hi there, I am Neh
+
+I am a soon-to-be computer science graduate from the University of Guelph with a strong background and interest in building practical, impact-driven software. 
+
+I enjoy turning abstract ideas I have into projects that help simplify tasks and deliver value. Most of my work sits at the intersection of software engineering, data science, and machine learning, where I enjoy working on projects end-to-end from the concept phase to the implementation phase. 
+
+My experiences across research, academia, and industry have exposed me to a variety of domains including healthcare and sports and have given me hands-on experience with tools and technologies such as Python and JavaScript, which you will see being reflected across many of my projects. 
+
+Currently, I am exploring React and its ecosystem while continuing to deepen my knowledge in data science and machine learning so that I can work towards becoming a more well-rounded and effective developer. 
+
+If you have any questions about any of my repositories or are interested in collaborating, you can reach out to me via LinkedIn or email!
 
 <!--
 **neh-desai/neh-desai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
