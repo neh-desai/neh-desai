@@ -1,4 +1,4 @@
-👋 Hi there, I am Neh
+👋🏽 Hi there, I am Neh
 
 I am a soon-to-be **Computer Science graduate** from the **University of Guelph** who is passionate about building practical, impact-driven software. 
 
