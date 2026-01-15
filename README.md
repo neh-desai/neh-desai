@@ -1,15 +1,26 @@
-## 👋 Hi there, I am Neh
+👋 Hi there, I am Neh
 
-I am a soon-to-be computer science graduate from the University of Guelph with a strong background and interest in building practical, impact-driven software. 
+I am a soon-to-be **Computer Science graduate** from the **University of Guelph** who is passionate about building practical, impact-driven software. 
 
-I enjoy turning abstract ideas I have into projects that help simplify tasks and deliver value. Most of my work sits at the intersection of software engineering, data science, and machine learning, where I enjoy working on projects end-to-end from the concept phase to the implementation phase. 
+I enjoy turning abstract ideas I have into projects that help simplify tasks and deliver value. Most of my work sits at the intersection of **software engineering, data science, and machine learning**, where I enjoy working on projects from the concept phase all the way to the implementation phase. 
 
-My experiences across research, academia, and industry have exposed me to a variety of domains including healthcare and sports and have given me hands-on experience with tools and technologies such as Python and JavaScript, which you will see being reflected across many of my projects. 
+---
 
-Currently, I am exploring React and its ecosystem while continuing to deepen my knowledge in data science and machine learning so that I can work towards becoming a more well-rounded and effective developer. 
+📝 Experience & Interests
 
-If you have any questions about any of my repositories or are interested in collaborating, you can reach out to me via LinkedIn or email!
+- Experience across various domains such as research, academia, and industry, contributing to projects relating to healthcare and sports
+- Hands-on experience with tools and technologies including **Python**, **JavaScript**, and more as showcased across my projects
+- Currently exploring **React** and its ecosystem, while deepening my expertise in data science and machine learning to become a more well-rounded developer
 
+---
+
+✉️ Get in Touch
+
+If you have any questions about any of my repositories or are interested in collaborating, feel free to reach out!
+
+- [LinkedIn](https://www.linkedin.com/in/neh-desai/)  
+- [neh.desai2003@gmail.com](mailto:YOUR_EMAIL_ADDRESS)
+- 
 <!--
 **neh-desai/neh-desai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
