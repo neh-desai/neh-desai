@@ -10,7 +10,7 @@ I enjoy turning abstract ideas I have into projects that help simplify tasks and
 
 - Experience across various domains such as research, academia, and industry, contributing to projects relating to healthcare and sports
 - Hands-on experience with technologies including **Python**, **TypeScript**, **AWS**, and other modern development tools as showcased across my projects
-- Currently exploring **AI development** and experimenting with emerging technologies across the AI ecosystem to deepen my expertise and continue growing as a well-rounded developer! 
+- Currently exploring **AI development** and its evolving ecosystem to deepen my expertise and continue growing as a well-rounded developer! 
 
 ---
 
