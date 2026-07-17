@@ -1,6 +1,6 @@
 👋🏽 Hi there, I am Neh
 
-I am a soon-to-be **Computer Science graduate** from the **University of Guelph** who is passionate about building practical, impact-driven software. 
+I am a recent **Computer Science graduate** from the **University of Guelph** who is passionate about building practical, impact-driven software. 
 
 I enjoy turning abstract ideas I have into projects that help simplify tasks and deliver value. Most of my work sits at the intersection of **software engineering, data science, and machine learning**, where I enjoy working on projects from the concept phase all the way to the implementation phase. 
 
@@ -9,8 +9,8 @@ I enjoy turning abstract ideas I have into projects that help simplify tasks and
 📝 Experience & Interests
 
 - Experience across various domains such as research, academia, and industry, contributing to projects relating to healthcare and sports
-- Hands-on experience with tools and technologies including **Python**, **JavaScript**, and more as showcased across my projects
-- Currently exploring **React** and its ecosystem, while deepening my expertise in data science and machine learning to become a more well-rounded developer
+- Hands-on experience with technologies including **Python**, **TypeScript**, **AWS**, and other modern development tools as showcased across my projects
+- Currently exploring **AI development** and experimenting with emerging technologies across the AI ecosystem to deepen my expertise and continue growing as a well-rounded developer! 
 
 ---
 
